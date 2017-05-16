@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manuel\AndroidStudioProjects\TienditaApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf6614dab1b8c5b6479cf0aa2fc4890a0ad82f41">
+        <dex dex="C:\Users\Manuel\AndroidStudioProjects\TienditaApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_12d2d4aface747a6df46ed42d6cf3fb205fab724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manuel\AndroidStudioProjects\TienditaApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Manuel\AndroidStudioProjects\TienditaApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f549efd18fd5af4a2c472ff29399f8b3651f7ada\classes.dex" />
+    </item>
+
+</items>
