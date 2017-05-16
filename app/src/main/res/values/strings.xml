@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tiendita App</string>
+    <string name="label_1ogin">Login</string>
+    <string name="usuario">Usuario:</string>
+    <string name="pass">Contraseña:</string>
+    <string name="enter">Entrar</string>
+    <string name="logged">Has ingresado</string>
+    <string name="button_pay">Pagar</string>
+    <string name="button_reset">Restablecer</string>
+    <string name="button_view">Ver Carrito</string>
+    <string name="label_total">Total = $0</string>
+</resources>
