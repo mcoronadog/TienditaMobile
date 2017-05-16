@@ -1,0 +1,7 @@
+#Mon May 15 19:09:22 CDT 2017
+base.0=C\:\\Users\\Manuel\\AndroidStudioProjects\\TienditaApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_12d2d4aface747a6df46ed42d6cf3fb205fab724
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Manuel\\AndroidStudioProjects\\TienditaApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f549efd18fd5af4a2c472ff29399f8b3651f7ada\\classes.dex
+base.1=C\:\\Users\\Manuel\\AndroidStudioProjects\\TienditaApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f549efd18fd5af4a2c472ff29399f8b3651f7ada
+file.0=C\:\\Users\\Manuel\\AndroidStudioProjects\\TienditaApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_12d2d4aface747a6df46ed42d6cf3fb205fab724\\classes.dex
